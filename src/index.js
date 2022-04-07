@@ -16,3 +16,4 @@ for (let gal of gallery) {
     );
   });
 }
+// asd
